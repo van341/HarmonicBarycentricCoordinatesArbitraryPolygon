@@ -1,1 +1,2 @@
 # Harmonic Barycentric Coordinates for an Arbitrary Polygon
+An example of a software implementation in C# of a method for calculating external and internal barycentric coordinates for an arbitrary polygon is given. The calculated barycentric coordinates are harmonic. The method is described in the article: A. S. Il'inskii, I. S. Polyanskii, “An approximate method for determining the harmonic barycentric coordinates for arbitrary polygons", Comput. Math. Math. Phys., 59:3 (2019), 366–383. DOI10.1134/S0965542519030096
