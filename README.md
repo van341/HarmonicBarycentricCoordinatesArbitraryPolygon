@@ -1,1 +1,1 @@
-# HarmonicBarycentricCoordinatesArbitraryPolygon
+# Harmonic Barycentric Coordinates for an Arbitrary Polygon
